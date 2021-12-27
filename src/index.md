@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Mingxuan Zhang'
 image: '/images/me_alt.jpg'
 ---
 
