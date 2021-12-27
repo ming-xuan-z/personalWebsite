@@ -1,39 +1,44 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
+  "name": "Mingxuan Zhang",
+  "description": "Mingxuan's personal website",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
+    "name": "Mingxuan Zhang",
+    "email": "mingxuaz@andrew.cmu.edu",
     "twitterHandle": "author_handle"
   },
-  "defaultSocialImage": "/images/default-social-image.png",
+  "defaultSocialImage": "/images/default-social-image.jpeg",
   "headerLinks": [
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    },
     {
       "text": "Blog",
       "url": "/blog",
       "external": false
     },
     {
-      "text": "About",
-      "url": "/about",
-      "external": false
+      "text": "Resume",
+      "url": "https://www.andrew.cmu.edu/user/mingxuaz/MingxuanZhangResume1029.pdf",
+      "external": true
     }
   ],
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
+      "url": "https://www.instagram.com/_mingxuanz_/",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/ming-xuan-z",
       "external": true
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mingxuaz/",
       "external": true
     }
   ],

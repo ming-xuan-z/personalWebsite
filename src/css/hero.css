@@ -45,3 +45,19 @@
   stroke: rgb(0, 0, 0, 0.4);
   /* color: rgb(41, 41, 41); */
 }
+
+.hero img {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+}
+
+@media (min-width: 35.9375em) {
+  .hero img {
+    width: 200px;
+    float: right;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+  }
+}

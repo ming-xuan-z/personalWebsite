@@ -1,14 +1,15 @@
 ---
-title: About Aidan Charles Powell
+title: About me
 layout: about.njk
-name: Aidan Charles Powell
+name: me
 image: '/images/me.jpeg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+I have a technical background and passion for parallel computing, distributed systems, and data science. I'm an incoming
+software engineer intern at [Bodo](https://www.bodo.ai), and I will be TAing 15-210,
+Parallel and Sequential Data Structure and Algorithms at CMU for spring 2022.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+Previously, I spent my first year of college at [Wesleyan University](https://www.wesleyan.edu), where I 
+studied political science, economics, and mathematics. 
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+I can be reached at *mingxuaz[AT]andrew[DOT]cmu[DOT]edu*.

@@ -1,8 +1,10 @@
 ---
 layout: home
 title: 'Eleventy Duo'
+image: '/images/me_alt.jpg'
 ---
 
-# Hello World
+# C'est moi
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+I'm currently an undergraduate at [CMU SCS](https://www.scs.cmu.edu) pursuing a dual degree in computer science and statistics. 
+I'm a functional programming evangelist, libertarian, amateur boxer and avid reader.
